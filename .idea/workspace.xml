@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e865731-cf58-440b-92c5-a9622ed32fd9" name="New changelist" comment="New changelist" />
+    <list default="true" id="9e865731-cf58-440b-92c5-a9622ed32fd9" name="New changelist" comment="New changelist">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/academiadecodigo/carcrash/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/academiadecodigo/carcrash/Game.java" afterDir="false" />
+    </list>
     <list id="9d26d7a6-c0dd-42ec-a992-95de7a5e294a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

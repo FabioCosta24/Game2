@@ -43,7 +43,7 @@ public class Game {
     }
 
     /**
-     * Starts the animation
+     * Starts the animation.
      *
      * @throws InterruptedException
      */
